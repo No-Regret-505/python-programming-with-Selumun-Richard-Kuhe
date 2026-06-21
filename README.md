@@ -1,16 +1,12 @@
 ### 3rd NELIREF Data Science and AI Summer School
 
-## Python Basics
+# Python Programming Basics for Beginners
 
-This repository contains a notebook for python beginners.
-
-# Python Basics for Beginners
-
-A comprehensive Jupyter notebook introducing fundamental Python programming concepts with clear explanations, practical examples, and hands-on exercises.
+A comprehensive repository introducing fundamental Python programming concepts with clear explanations, practical examples, and hands-on exercises.
 
 ## Overview
 
-This interactive notebook is designed for absolute beginners who want to learn Python from scratch. It covers essential concepts and provides a foundation for further programming studies.
+This interactive notebooks are designed for absolute beginners who want to learn Python from scratch. It covers essential concepts and provides a foundation for further programming studies.
 
 ## What You'll Learn
 
