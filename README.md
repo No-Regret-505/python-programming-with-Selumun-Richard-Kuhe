@@ -1,6 +1,10 @@
-### 3rd NELIREF Data Science and AI Summer School
+# 3rd NELIREF Data Science and AI Summer School
 
-# Python Programming Basics for Beginners
+## Instructor (s)
+
+Peter Denen Tsaha
+
+## Python Programming Basics for Beginners
 
 A comprehensive repository introducing fundamental Python programming concepts with clear explanations, practical examples, and hands-on exercises.
 
